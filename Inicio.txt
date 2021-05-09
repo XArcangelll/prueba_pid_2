@@ -1,1 +1,2 @@
-Linus Torvalds
+Linus Torvalds es el creador de git
+Git --> Cibertec
